@@ -40,3 +40,26 @@
   background-color: #40ad74;
   padding: 5px;
 }
+.fond {
+  width: 1222px;
+  height: 461px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  border-radius: 30px;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url("./Rectangle 5.png");
+}
+h1 {
+  width: 750px;
+  color: #8a8989;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 70px;
+  margin-left: 150px;
+}
+b {
+  color: #40ad74;
+  font-weight: 700;
+}
