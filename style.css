@@ -131,3 +131,76 @@ b {
   height: 150px;
   text-align: center;
 }
+.mission {
+  width: 1017px;
+  height: 550px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+.kovickhka {
+  width: 61px;
+  height: 43px;
+  margin-top: 40px;
+}
+.we {
+  width: 900px;
+  height: 270px;
+  text-align: center;
+  margin: auto;
+}
+.our {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 70px;
+  font-style: italic;
+  color: #1d1d1b;
+}
+.two {
+  margin-left: 900px;
+  margin-top: -50px;
+}
+.kontakt {
+  width: 350px;
+  height: 150px;
+  margin: auto;
+}
+.predced {
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 28px;
+  color: #505050;
+}
+.name {
+  color: #000;
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.contacts {
+  width: 350px;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.contakt {
+  width: 170px;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.size-5 {
+  width: 24px;
+  height: 24px;
+  color: #40ad74;
+}
+.kantakt {
+  font-size: 16px;
+  font-weight: 400;
+  color: #505050;
+  line-height: 28px;
+}
