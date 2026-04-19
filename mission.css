@@ -81,10 +81,12 @@ h1 {
   color: #1d1d1b;
 }
 .content {
+  width: 811px;
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
   color: #505050;
+  margin: auto;
   margin-top: 20px;
 }
 .Frame {
