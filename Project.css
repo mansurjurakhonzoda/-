@@ -141,12 +141,102 @@ b {
   color: #1d1d1b;
   text-align: center;
 }
-.one{
-    margin-top: 40px;
+.one {
+  margin-top: 40px;
 }
-.dwa{
-    margin: 103px 0px;
+.dwa {
+  margin: 103px 0px;
 }
-.three{
-    margin-bottom: 40px;
+.three {
+  margin-bottom: 40px;
+}
+.pressa {
+  width: 1017px;
+  height: 650px;
+  margin: auto;
+}
+.koordinata {
+  width: 1017px;
+  height: 430px;
+  margin: 61px 0px;
+  display: flex;
+}
+.nomera {
+  width: 480px;
+  height: 356px;
+  display: flex;
+  flex-direction: column;
+}
+.nomer {
+  width: 480px;
+  height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.size-3 {
+  width: 34px;
+  height: 34px;
+  color: #ffffff;
+  background-color: #40ad74;
+  border-radius: 50%;
+  padding: 34px;
+}
+.adress {
+  width: 350px;
+  height: 110px;
+}
+.imya {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #505050;
+}
+.aderss {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 40px;
+  color: #1d1d1b;
+}
+.four {
+  margin: 13px 0px;
+}
+.map {
+  width: 537px;
+  height: 430px;
+}
+.end {
+  width: 100%;
+  height: 142px;
+  padding: 50px 0px;
+  background-color: #f8f8f8;
+}
+.logo_full {
+  width: 195px;
+  margin-left: 45%;
+}
+.sslki {
+  width: 1017px;
+  height: 50px;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-bottom: 1px solid #505050;
+}
+a {
+  font-size: 20px;
+  color: #505050;
+  font-weight: 500;
+  line-height: 30px;
+  text-decoration: none;
+}
+.konec {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #c4c4c4;
+  margin: 20px 0px;
 }
