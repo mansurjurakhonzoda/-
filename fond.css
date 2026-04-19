@@ -99,3 +99,23 @@ b {
   line-height: 24px;
   color: #505050;
 }
+.sciance {
+  width: 100%;
+  height: 750px;
+  padding: 100px 0px;
+  background-color: #f8f8f8;
+}
+.margin {
+  margin-left: 200px;
+  margin-bottom: 40px;
+}
+.mar {
+  width: 1065px;
+  margin: 40px 0px;
+  margin-left: 200px;
+}
+.Frame {
+  width: 865px;
+  margin-left: 200px;
+  margin-bottom: 40px;
+}
