@@ -338,3 +338,58 @@ b {
   justify-content: center;
   align-items: center;
 }
+.pressa {
+  width: 1017px;
+  height: 650px;
+  margin: auto;
+}
+.koordinata {
+  width: 1017px;
+  height: 430px;
+  margin: 61px 0px;
+  display: flex;
+}
+.nomera {
+  width: 480px;
+  height: 356px;
+  display: flex;
+  flex-direction: column;
+}
+.nomer {
+  width: 480px;
+  height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.size-3 {
+  width: 34px;
+  height: 34px;
+  color: #ffffff;
+  background-color: #40ad74;
+  border-radius: 50%;
+  padding: 34px;
+}
+.adress {
+  width: 350px;
+  height: 110px;
+}
+.imya {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #505050;
+}
+.aderss {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 40px;
+  color: #1d1d1b;
+}
+.four {
+  margin: 13px 0px;
+}
+.map {
+  width: 537px;
+  height: 430px;
+}
