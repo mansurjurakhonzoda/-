@@ -273,3 +273,38 @@ b {
   border-radius: 4px;
   margin-top: 50px;
 }
+.dwa {
+  margin-left: 200px;
+}
+.kartochki {
+  width: 1013px;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+.karta {
+  width: 311px;
+  height: 490px;
+  padding: 10px;
+}
+.kartchka {
+  width: 305px;
+  height: 202px;
+  margin-bottom: 30px;
+}
+.data {
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 5px 10px;
+  line-height: 24px;
+  border-radius: 21px;
+  background-color: #40ad74;
+}
+.aboutdata {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 40px;
+  color: #1d1d1b;
+  margin-top: 30px;
+}
